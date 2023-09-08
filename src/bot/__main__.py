@@ -1,8 +1,3 @@
-# TODO: Проверка подписки на канал
-# TODO: Add проверку ссылки regExp
-# TODO: Навигация
-# TODO: Add multi-language usage
-# TODO: Create service
 from aiogram import Dispatcher, Bot
 from src.configuration import conf
 import asyncio
